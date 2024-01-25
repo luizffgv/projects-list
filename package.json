@@ -1,0 +1,24 @@
+{
+  "name": "projects-list",
+  "private": true,
+  "description": "A list of my projects, for my projects.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "assets/",
+    "lib/"
+  ],
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig-decls.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizffgv/projects-list.git"
+  },
+  "author": "Luiz Fernando F. G. Valle <luizfvalle@pm.me>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
