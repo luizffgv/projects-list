@@ -400,6 +400,7 @@ const projects = [
       "GitHub",
       "GitHub Actions",
       "HTML",
+      "JavaScript",
       "Node.js",
       "Site",
       "TypeScript",
