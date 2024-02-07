@@ -346,8 +346,8 @@ const projects = [
           >algoritmo</a
         >
         <strong>compacto</strong> e <strong>genérico</strong> para a
-        identificação de fantasmas, com um modelo que torna o torna aplicável,
-        sem alterações, a todos os fantasmas e dificuldades.
+        identificação de fantasmas, com um modelo que o torna aplicável, sem
+        alterações, a todos os fantasmas e dificuldades.
       </p>
       <h3>Passos do algoritmo</h3>
       <ul class="raiar-list-text">
