@@ -392,6 +392,23 @@ const projects = [
     url: "https://www.npmjs.com/package/@luizffgv/ts-conversions",
     repository: "https://github.com/luizffgv/ts-conversions",
   },
+  {
+    name: "Viewport-Based Scaling",
+    description:
+      "Site que gera CSS para definir o valor de uma propriedade baseado na largura do viewport, realizando interpolação linear entre vários pares de pontos.",
+    tags: [
+      "GitHub",
+      "GitHub Actions",
+      "HTML",
+      "Node.js",
+      "Site",
+      "TypeScript",
+      "Webpack",
+    ],
+    license: "MIT License",
+    url: "https://vbs.luizf.dev",
+    repository: "https://github.com/luizffgv/viewport-based-rescaling",
+  },
 ] as const satisfies ProjectRaw[];
 
 export default projects;
