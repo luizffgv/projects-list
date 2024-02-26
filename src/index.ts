@@ -24,10 +24,12 @@ export type Tag =
   | "Markdown"
   | "mdBook"
   | "Mod"
+  | "Next.js"
   | "Node.js"
   | "Organização"
   | "Pacote NPM"
   | "Python"
+  | "React"
   | "Sass"
   | "Site"
   | "Three.js"
@@ -144,6 +146,21 @@ const projects = [
     ],
     url: "https://github.com/codinStruct",
     image: "codinStruct",
+  },
+  {
+    name: "codinStruct Next",
+    description: "Front-end em Next.js feito para o projeto codinStruct.",
+    tags: [
+      "GitHub",
+      "GitHub Actions",
+      "HTML",
+      "Next.js",
+      "Node.js",
+      "React",
+      "TypeScript",
+    ],
+    url: "https://codinstruct.luizf.dev",
+    repository: "https://github.com/luizffgv/codinStruct-next",
   },
   {
     name: "ExpTL",
