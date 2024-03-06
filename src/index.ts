@@ -189,6 +189,22 @@ const projects = [
     repository: "https://github.com/luizffgv/Figment",
   },
   {
+    name: "Glimmer",
+    description:
+      "Um simples framework modular para bots de Discord baseado em discord.js.",
+    tags: [
+      "Framework",
+      "Discord App",
+      "GitHub",
+      "GitHub Actions",
+      "JavaScript",
+      "Node.js",
+      "TypeScript",
+    ],
+    license: "MIT License",
+    repository: "https://github.com/luizffgv/Glimmer",
+  },
+  {
     name: "Globe",
     description:
       "Um site com um globo giratório formado por pontos, te permitindo usar suas próprias imagens como texturas.",
