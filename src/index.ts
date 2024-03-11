@@ -335,6 +335,25 @@ const projects = [
     repository: "https://github.com/luizffgv/raiar",
   },
   {
+    name: "Separador de sílabas",
+    description:
+      "Um site feito em Next.js que divide um texto em sílabas utilizando um algoritmo que criei.",
+    tags: [
+      "GitHub",
+      "GitHub Actions",
+      "HTML",
+      "JavaScript",
+      "Next.js",
+      "Node.js",
+      "React",
+      "Site",
+      "TypeScript",
+    ],
+    license: "MIT License",
+    url: "https://silabas.luizf.dev/",
+    repository: "https://github.com/luizffgv/silabas-website",
+  },
+  {
     name: "Shader Site",
     description:
       "Um site que te ajuda a encontrar o shaderpack de Minecraft ideal para você.",
