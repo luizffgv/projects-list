@@ -430,7 +430,7 @@ const projects = [
   {
     name: "TS Conversions",
     description:
-      "Biblioteca e pacote NPM fornecendo utilitários para realizar conversões seguras ou inseguras e diminuir código boilerplate no TypeScript. Também é utilizada nesse site.",
+      "Biblioteca e pacote NPM fornecendo utilitários para realizar conversões seguras ou inseguras e diminuir código boilerplate no TypeScript.",
     tags: [
       "Biblioteca",
       "GitHub Actions",
