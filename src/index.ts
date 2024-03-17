@@ -32,6 +32,7 @@ export type Tag =
   | "React"
   | "Sass"
   | "Site"
+  | "Tailwind CSS"
   | "Three.js"
   | "TypeScript"
   | "Webpack";
@@ -297,6 +298,25 @@ const projects = [
     tags: ["Biblioteca", "C", "C18", "GitHub"],
     license: "GNU General Public License v3.0",
     repository: "https://github.com/luizffgv/modern-c-sorting-algorithms",
+  },
+  {
+    name: "Phasmoo",
+    description: "Um filtrador de fantasmas on-line para o jogo Phasmophobia.",
+    tags: [
+      "GitHub",
+      "GitHub Actions",
+      "HTML",
+      "JavaScript",
+      "Next.js",
+      "Node.js",
+      "React",
+      "Site",
+      "Tailwind CSS",
+    ],
+    license: "MIT License",
+    url: "https://phasmoo.luizf.dev",
+    repository: "https://github.com/luizffgv/phasmoo",
+    image: "Phasmoo",
   },
   {
     name: "Raiar",
