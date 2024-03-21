@@ -372,6 +372,7 @@ const projects = [
     license: "MIT License",
     url: "https://silabas.luizf.dev/",
     repository: "https://github.com/luizffgv/silabas-website",
+    image: "Silabas",
   },
   {
     name: "Shader Site",
