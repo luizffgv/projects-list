@@ -162,6 +162,7 @@ const projects = [
     ],
     url: "https://codinstruct.luizf.dev",
     repository: "https://github.com/luizffgv/codinStruct-next",
+    image: "codinStruct",
   },
   {
     name: "ExpTL",
