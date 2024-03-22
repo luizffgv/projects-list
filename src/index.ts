@@ -150,7 +150,8 @@ const projects = [
   },
   {
     name: "codinStruct Next",
-    description: "Front-end em Next.js feito para o projeto codinStruct.",
+    description:
+      "Front-end em Next.js feito para o codinStruct—projeto realizado na Rede de Ensino Doctum com o intuito de produzir conteúdos educacionais sobre programação.",
     tags: [
       "GitHub",
       "GitHub Actions",
@@ -302,7 +303,8 @@ const projects = [
   },
   {
     name: "Phasmoo",
-    description: "Um filtrador de fantasmas on-line para o jogo Phasmophobia.",
+    description:
+      "Um website e PWA totalmente responsivo que filtra fantasmas para auxiliar no gameplay do jogo Phasmophobia.",
     tags: [
       "GitHub",
       "GitHub Actions",
